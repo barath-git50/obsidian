@@ -1,1 +1,1 @@
-this is a sample note to push to git
+this is a sample note to push to git. i am updating the text in mobile. to verify sync

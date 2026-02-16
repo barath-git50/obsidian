@@ -1,4 +1,0 @@
-- [ ] fill trutime
-- [ ] send mail to tra team
-- [ ] check namecheck and pricing server services 
-- [ ] analyze on bringing up splunk
